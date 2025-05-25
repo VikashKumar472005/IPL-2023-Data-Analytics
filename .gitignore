@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Python egg and wheel
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Log and cache files
+*.log
+*.sqlite3
+*.db
+.cache/
+*.pkl
+*.json
+
+# CSV output or datasets (if auto-generated)
+*.csv
+
+# Ignore API keys or secret config files
+secrets.json
+api_keys.json
+
+# Jupyter Notebook hidden files
+*.nbconvert.ipynb
